@@ -1,4 +1,4 @@
-## Iae, eu sou o Emmanuel Rdorigues, atualmente dev front-end
+## Iae, eu sou o Emmanuel Rdorigues, atualmente dev front-end. Estou aprendendo novas tecnologias e buscando uma vaga que me possibilite explorar novos horizontes 😎
 <div align="center">
   <a href="https://github.com/im4nu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=im4nu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
