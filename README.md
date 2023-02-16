@@ -2,6 +2,12 @@
 
 <h3> Produzo telas com interaces modernas e seguindo critérios do Ux Ui. Estou cursando bacharelado em Sistemas da informação, atualmente no 5° Semestre e trabalho na StartTec Soluções em Tecnologia</h3>
 
+<div align="center" >
+  <a href="https://github.com/antonio-cosmo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antonio-cosmo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-cosmo&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
+
 <p>Explore meu github e deixe eu explodir sua mente 🤯<p>
   
 <div> 
@@ -12,12 +18,6 @@
  
 </div>
 
-<div align="center" >
-  <a href="https://github.com/antonio-cosmo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antonio-cosmo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-cosmo&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
-  
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
