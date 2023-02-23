@@ -1,6 +1,6 @@
-## Olá, me chamo Emmanuel tenho 20 anos e sou Desenvolvedor Front end e WebDesigner. Seja bem vindo ao meu github 🤯
+## Desenvolvedor Front end e WebDesigner. Seja bem vindo ao meu github 🤯
 
-<h3> Produzo telas com interaces modernas e seguindo critérios do Ux Ui. Estou cursando bacharelado em Sistemas da informação, atualmente no 5° Semestre e trabalho na StartTec Soluções em Tecnologia</h3>
+<h3>  Olá, me chamo Emmanuel e tenho 20 anos. Produzo telas com interaces modernas e seguindo critérios do Ux Ui. Estou cursando bacharelado em Sistemas da informação, atualmente no 5° Semestre e trabalho na StartTec Soluções em Tecnologia</h3>
 <p>× × × × × × × × × × × × × × × ×</p>
 
 <div> 
