@@ -1,6 +1,6 @@
 ## Desenvolvedor Front end e WebDesigner. Seja bem vindo ao meu github 🤯
 
-<h3>  Olá, me chamo Emmanuel e tenho 20 anos. Produzo telas com interaces modernas e seguindo critérios do Ux Ui. Estou cursando bacharelado em Sistemas da informação, atualmente no 5° Semestre e trabalho na StartTec Soluções em Tecnologia</h3>
+<h3>  Produzo telas com interaces modernas e seguindo critérios do Ux Ui. Estou cursando bacharelado em Sistemas da informação, atualmente no 5° Semestre e trabalho na StartTec Soluções em Tecnologia</h3>
 <p>× × × × × × × × × × × × × × × ×</p>
 
 <div> 
@@ -17,4 +17,5 @@
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
