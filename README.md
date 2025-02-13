@@ -14,5 +14,4 @@
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dgolang&psig=AOvVaw0GpsN3f1QZ_mT5vnOYaxg1&ust=1739540956395000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLih_pjlwIsDFQAAAAAdAAAAABAJ">
 </div>
