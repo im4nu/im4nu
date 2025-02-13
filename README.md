@@ -1,6 +1,6 @@
-## Desenvolvedor Front end e WebDesigner. Seja bem vindo ao meu github 🤯
+## Desenvolvedor Full stack com foco em UX. Seja bem vindo ao meu github 🤯
 
-<h3>  Produzo telas com interfaces modernas. Atualmente curso bacharelado em Sistemas da informação e trabalho na StartTec Soluções em Tecnologia</h3>
+<h3>Produzindo, a mais de 4 anos, telas com interfaces modernas, responsivas, rápidas e que acomapnham o mercado. Atualmente estou concluindo meu bacharelado em Sistemas da informação e trabalho na StartTec Soluções em Tecnologia.</h3>
 <p>× × × × × × × × × × × × × × × ×</p>
 
 <div> 
